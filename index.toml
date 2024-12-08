@@ -580,6 +580,11 @@ hash = "9874de4c2180b22375b7536a08129286595fdac811ec645ad858013494cab370"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 hash = "78af855ce4a3615de0046c0e7ddc0722166cf273555bd08384ec03ba6a1a44eb"
 metafile = true
@@ -871,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "887656197aff2cd6009a0ff04996b4318aa202b8ed253650860f4882a60bc876"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "0c624f40d2ed3d6c90b2cd9bc6d54c3aeb0cce358fad225928e4ffa240d8959e"
 metafile = true
 
 [[files]]
@@ -1307,11 +1317,6 @@ hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
-metafile = true
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1dd540094372fc739857d45308c7bee815d7e0e77b9f59a0aecf2f60d37dbf7c"
 metafile = true
@@ -1324,11 +1329,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
@@ -1408,7 +1408,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-reputation.pw.toml"
-hash = "4270f442c2cc9c7f41b5e2d60bfdbbefc40684f63db27a391da6ecb87b9a394c"
+hash = "f85ca367860d6fa42e257f226bbcdd47d3721f00d4bef9652c7ae68b61a6253d"
 metafile = true
 
 [[files]]
