@@ -1,0 +1,13 @@
+name = "HexGender"
+filename = "hexgender-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDrq21Uc/versions/sEUi8J68/hexgender-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "e7a073af4f07d4688531c4ce15e238b5864beb328c41076aa4c92d3771e7ade560e2f5f392dc3675ac78dcb6e9acf440fc59105e204fa32c89e5691737251d70"
+
+[update]
+[update.modrinth]
+mod-id = "eDrq21Uc"
+version = "sEUi8J68"

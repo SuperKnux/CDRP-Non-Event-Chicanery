@@ -1,0 +1,13 @@
+name = "Origins Apoli Armor Mixin Fix"
+filename = "origins_apoli_armor_mixin_fix-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xqLUem1N/versions/KU7Qopg1/origins_apoli_armor_mixin_fix-1.0.2.jar"
+hash-format = "sha512"
+hash = "77f25234ff42e462b9f69faa2a906b7efa08476b121873e41dcb2c927c6a76ce68f38e2cfb1525cc08ee100ccd09cde3dbebed6c2fd9a80558a886403f75de2e"
+
+[update]
+[update.modrinth]
+mod-id = "xqLUem1N"
+version = "KU7Qopg1"

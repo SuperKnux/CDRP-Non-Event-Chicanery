@@ -1,0 +1,13 @@
+name = "Truly Modular: Armory"
+filename = "Truly-Modular-armory-armory-fabric-1.9-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6mUV27DN/versions/xbPHEkOE/Truly-Modular-armory-armory-fabric-1.9-1.20.1.jar"
+hash-format = "sha512"
+hash = "2a34535e5b6a77e25ad15b66353d41ef87603e6337a02e7912b666babd8eb5986acb55734d65e814f878b445febc4191d6430e871a90bc8e38e4c38f04c0fd17"
+
+[update]
+[update.modrinth]
+mod-id = "6mUV27DN"
+version = "xbPHEkOE"

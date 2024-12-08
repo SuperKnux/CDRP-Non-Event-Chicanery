@@ -1,0 +1,13 @@
+name = "Sky: Origins"
+filename = "skykid-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cQwz6Ez4/versions/7UFqlujH/skykid-0.7.2.jar"
+hash-format = "sha512"
+hash = "b9dd39e52413643a0d3f1a25696bc59896226fd169a9a3843deb774005650da7fb24c2d46835c4bfda9c665a9b3fb95760f0818d11e67dde4bc843f9651a1bf8"
+
+[update]
+[update.modrinth]
+mod-id = "cQwz6Ez4"
+version = "7UFqlujH"

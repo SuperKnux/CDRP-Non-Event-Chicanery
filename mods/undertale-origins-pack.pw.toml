@@ -1,0 +1,13 @@
+name = "Undertale Origins Pack"
+filename = "undertale-origins-pack-1.9.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFXqBhSA/versions/6qVN4yEB/undertale-origins-pack-1.9.5.jar"
+hash-format = "sha512"
+hash = "33f441f3c356ca0103a7e87706b6be8f8b49dc92f724012719a93a50edbf20f2ec721577ff479ef52599cbbb5e858ed720c01b07151e4308da91f8d1929aac42"
+
+[update]
+[update.modrinth]
+mod-id = "zFXqBhSA"
+version = "6qVN4yEB"

@@ -1,0 +1,13 @@
+name = "CDRP Non Event Chicanery"
+author = "Ski"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "214cb45e4d94bdbb03297cb3645f4c3734084443cebaad9eb028f46f8c41b308"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.27.1-beta.1"

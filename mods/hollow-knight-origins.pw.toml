@@ -1,0 +1,13 @@
+name = "Hollow Knight Origins"
+filename = "hollow_knight_origins-0.21-1.20.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FLJNjQcE/versions/LZGvCFFl/hollow_knight_origins-0.21-1.20.X.jar"
+hash-format = "sha512"
+hash = "ca77447f73fface2f78525c39fe19dc68ec50c31131814f036e239864fdf49b85cd2971f16b9089ea2d8c5f48474d015d84c1f7e70adc994499291ce6aa1d3b6"
+
+[update]
+[update.modrinth]
+mod-id = "FLJNjQcE"
+version = "LZGvCFFl"

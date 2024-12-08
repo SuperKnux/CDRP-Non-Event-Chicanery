@@ -1,0 +1,13 @@
+name = "Truly Modular: Archery"
+filename = "Truly-Modular-archery-archery-fabric-1.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RXklwn50/versions/sJgRl60c/Truly-Modular-archery-archery-fabric-1.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "ef7890c05e9d3f9f97032e8f1bc0a78fbc59f2533146443ea8ffe0c8d74f8f7038601cca65d7c58d7f2005ee69a7123cc8692b6b39ebf0b3edbab49c16a2e298"
+
+[update]
+[update.modrinth]
+mod-id = "RXklwn50"
+version = "sJgRl60c"

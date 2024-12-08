@@ -1,0 +1,13 @@
+name = "The Afterdark"
+filename = "the_afterdark-1.20.1-fabric-1.0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjqfdsbN/versions/lDfQS5mM/the_afterdark-1.20.1-fabric-1.0.3.1.jar"
+hash-format = "sha512"
+hash = "a0a7f31f8ea73b84306504e41705aea79b20f614188ef44c42d72c1ee5f83e7db78f1b8ce92494bf026aee6595c4ad511649f0f26c3d54c986383db2a49d4508"
+
+[update]
+[update.modrinth]
+mod-id = "EjqfdsbN"
+version = "lDfQS5mM"

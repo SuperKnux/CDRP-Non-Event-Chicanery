@@ -1,0 +1,13 @@
+name = "HexWeb"
+filename = "hexweb-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJ3gEnWO/versions/C9FJBmXI/hexweb-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "7a8c01d6358c7e4f90a10783d5243345143f5de1c865180d414b6f6051ab15f40736c016a3c203666fddc8e275908b3793f8cabe8c28c4c288212015915c5e4b"
+
+[update]
+[update.modrinth]
+mod-id = "tJ3gEnWO"
+version = "C9FJBmXI"

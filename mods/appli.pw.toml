@@ -1,0 +1,13 @@
+name = "Appli"
+filename = "appli-1.2.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0tBWK04/versions/zRGFOwpp/appli-1.2.1-1.20.jar"
+hash-format = "sha512"
+hash = "c192dfeeda92dfdc6ebd6873cd5f0df7767aaf91a81d89698e36f190694c3d3234e2593e3d976cec6e152858f96060335631578bb1ae055cf6ace1fcd09294ec"
+
+[update]
+[update.modrinth]
+mod-id = "r0tBWK04"
+version = "zRGFOwpp"
