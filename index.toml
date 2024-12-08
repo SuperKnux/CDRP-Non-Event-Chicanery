@@ -56,6 +56,11 @@ hash = "77fa60afe266039f8577c093a1abeee3155acbcdb22bf5ae14bcf522d15b321d"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f9278d338d0fc16a343206fdce858d5d57adb84a2ee12eb815053695f37a1886"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -1154,6 +1164,11 @@ metafile = true
 [[files]]
 file = "mods/scarves.pw.toml"
 hash = "a393c8a89aa87b7a46d570553757e9a527c6dd839784bb88b0eae02fe5e78431"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
