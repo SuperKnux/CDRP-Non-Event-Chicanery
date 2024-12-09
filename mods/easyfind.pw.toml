@@ -1,0 +1,13 @@
+name = "EasyFind"
+filename = "easyfind.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9RJtCKs/versions/4Okqljs8/easyfind.jar"
+hash-format = "sha512"
+hash = "bc07af86b3b9d5e2b94de2c50c38bbb759a875790cf25043230091507ccf942da9b6886a679f991807b8e39ebc6fd890f83289a1ea0d4f348911e620d798441e"
+
+[update]
+[update.modrinth]
+mod-id = "N9RJtCKs"
+version = "4Okqljs8"

@@ -1,0 +1,13 @@
+name = "Plenty Plates"
+filename = "PlentyPlates-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmcdxJxh/versions/S5jvxCWn/PlentyPlates-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "c4c2eb448ddcd68fd6e7fea7d45562366090af04fc0eeed40cda31c78d57c6ac5fbda952b9db56571443d724507ea74b95ef56c1b15eb154f0bd2d021a849f8d"
+
+[update]
+[update.modrinth]
+mod-id = "VmcdxJxh"
+version = "S5jvxCWn"

@@ -1,0 +1,13 @@
+name = "DropConfirm"
+filename = "drop_confirm-1.4.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I45rjF2F/versions/BeiGXbT3/drop_confirm-1.4.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "1776ec2e91a2efc5b96a37a4de5540b06b1f66f6868909215616b37f8ed34e95964da0882c3364c072e9c760f9cd9d5b8dcfff333f05a6e37e954e2dac4f6cae"
+
+[update]
+[update.modrinth]
+mod-id = "I45rjF2F"
+version = "BeiGXbT3"
