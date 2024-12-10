@@ -191,11 +191,6 @@ hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
@@ -326,8 +321,8 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
-file = "mods/coyote_time-1.0.1-sources.jar"
-hash = "c5203f8d676f8d73592f54ad457432778d2971976e61d65e4317154f6e196920"
+file = "mods/coyote_time-1.0.1.jar"
+hash = "e7dfe4e189feec8c0039d1e11432d06735b5c589481d99f07109dfcd4175c9cf"
 
 [[files]]
 file = "mods/create-deco.pw.toml"
@@ -402,11 +397,6 @@ metafile = true
 [[files]]
 file = "mods/damage-incorporated.pw.toml"
 hash = "9f75a18437059605e5eef21b06327437bfbd38c55362dd8cc456a00104907cd1"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
@@ -1439,6 +1429,11 @@ metafile = true
 [[files]]
 file = "mods/undertale-origins-pack.pw.toml"
 hash = "8f4f330f77bf0752ab284de895cef6fb32ff4f58bad2030ccbcdde40f5c4c13c"
+metafile = true
+
+[[files]]
+file = "mods/vectorientation.pw.toml"
+hash = "5bba63e855efd5e7249461bf210c21b4da30590c62a93f1d40704e978500f2b1"
 metafile = true
 
 [[files]]
