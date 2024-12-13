@@ -5,6 +5,11 @@ file = "config/desiredservers/desiredservers.json"
 hash = "0991d49aab6d33890db194fc9bf98c7f0a23dfcb903d3c57bfb697a64807cc5f"
 
 [[files]]
+file = "mods/2mal3s-recipes.pw.toml"
+hash = "6e5c463f6e4aa99246ed7bd9f852a8e10d121b6cb5fd2d9b9055de5a8d2b216f"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
@@ -1187,11 +1192,6 @@ hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
 metafile = true
 
 [[files]]
-file = "mods/recipes-plus.pw.toml"
-hash = "27de845bb5e3e486fabf6a287594234e64f7226c38bcf56cff0038ef01713160"
-metafile = true
-
-[[files]]
 file = "mods/red-bits.pw.toml"
 hash = "23bf402399601d4f4aa0eb180bfce380902791ee3bdfb5aa755f746e7abb795b"
 metafile = true
@@ -1394,6 +1394,11 @@ metafile = true
 [[files]]
 file = "mods/tmp.pw.toml"
 hash = "d1d0cde026d61ce9fa88ff9747f86b296c80ed626f5c0150e8752e345df0e56c"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "4dcfcecd5f3be5cbb1b07a11bf6a264033c1619786491ec2a1ebf1b748324c48"
 metafile = true
 
 [[files]]
