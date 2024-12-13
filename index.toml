@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "0991d49aab6d33890db194fc9bf98c7f0a23dfcb903d3c57bfb697a64807cc5f"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
@@ -405,6 +409,11 @@ hash = "9f75a18437059605e5eef21b06327437bfbd38c55362dd8cc456a00104907cd1"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "ee5fd2f8b4b3eed5b4a9bf45610541aa8235eac44f38a47fca5a530280028d03"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
@@ -562,6 +571,16 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -1148,20 +1167,6 @@ hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "2c15a7ba78e8d8abbc612e55cfdb3df7c002a90d8fa467d88e28fe875ccaa3e9"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "f2644c0b7c14e9f76afc4e042970f010636e98a116ed92e624e87f01a782aab6"
-metafile = true
-
-[[files]]
-file = "mods/quilt-kotlin-libraries-core-5.0.0+kt.2.0.21+flk.1.12.3.jar"
-hash = "fbf71b9973baf1b7f819ba69ef3d9b1039430adce64f6728f5310976693ee3c2"
-
-[[files]]
 file = "mods/ratatouille.pw.toml"
 hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
 metafile = true
@@ -1239,6 +1244,11 @@ metafile = true
 [[files]]
 file = "mods/simple-trashcan.pw.toml"
 hash = "755cc6bd2f4a74489f1d3b2c1969df71073c16dcbe08389332532d4d59e24890"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
 metafile = true
 
 [[files]]
@@ -1503,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "mods/your-reputation.pw.toml"
-hash = "f85ca367860d6fa42e257f226bbcdd47d3721f00d4bef9652c7ae68b61a6253d"
+hash = "68c363e396dcb7fd1e93cb550f5c0ae8f75f8a9244eb1b93b67b8e083d33d4d4"
 metafile = true
 
 [[files]]

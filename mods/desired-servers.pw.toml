@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-fabric-1.20.1-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/762JayWz/desiredservers-fabric-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "454d27cd38075f1dbdd97d87382bd865b29405783378290b80fb799248a16cf4b87b00349b96d6390e9a39ba1a68d1eef96c6bc565709d9873daad62ded99d29"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "762JayWz"
