@@ -1452,11 +1452,6 @@ hash = "4002326c2891eee3d128605dd3f3b70e4b0b6196d09264de298e934d65508ec4"
 metafile = true
 
 [[files]]
-file = "mods/undertale-origins-pack.pw.toml"
-hash = "8f4f330f77bf0752ab284de895cef6fb32ff4f58bad2030ccbcdde40f5c4c13c"
-metafile = true
-
-[[files]]
 file = "mods/vectorientation.pw.toml"
 hash = "5bba63e855efd5e7249461bf210c21b4da30590c62a93f1d40704e978500f2b1"
 metafile = true
@@ -1565,3 +1560,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
+
+[[files]]
+file = "resourcepacks/UndertaleOriginsResourcePack.zip"
+hash = "b81c1c2d872d0dff6a2d232269faa3b7468405d0b2410ce054fe8be8cc646ac5"
