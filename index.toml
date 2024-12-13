@@ -439,11 +439,6 @@ hash = "6aca4f1c5a15dbdc330844e09ce700ad82cd96c409c78447aa7fcb85ac226ba2"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "15eaa7927e118a352c4ef7dad762dbd0de91ab3f2b3c9277a9587f8443b6385b"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
 metafile = true
