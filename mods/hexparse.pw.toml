@@ -1,13 +1,13 @@
 name = "HexParse"
-filename = "hexParse-fabric-1.20.1-0.6.1.jar"
+filename = "hexParse-fabric-1.20.1-0.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/njQaAy78/hexParse-fabric-1.20.1-0.6.1.jar"
+url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/KjYiEQq9/hexParse-fabric-1.20.1-0.6.2.jar"
 hash-format = "sha512"
-hash = "a6ed923ab8e891a131a5ec01a7eb84c3184a60c8704d739c48d26e670ebddb57c5fe412f8e9d31af803f9bd964f99054af9020094ecbfb2a4f811c5ad247e3ea"
+hash = "4e52c7c537cc33ee68e4d40a87af64410877dc62939797e9520c3bff125a0ebcccc45acf00d7f034bb92a9444b620b00e536ff67a370aa4ced7bf9c56ab74bf2"
 
 [update]
 [update.modrinth]
 mod-id = "WjFyIzFj"
-version = "njQaAy78"
+version = "KjYiEQq9"
