@@ -235,6 +235,11 @@ hash = "69a54ca57e0100c7c8175610f346aba7035e06f564ca075f5428faa45b289de4"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "0cc9069aeee558e036c7afd064d37d9f468ea1138705da0fe4aad64d95312f79"
 metafile = true
@@ -426,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/damage-incorporated.pw.toml"
 hash = "9f75a18437059605e5eef21b06327437bfbd38c55362dd8cc456a00104907cd1"
+metafile = true
+
+[[files]]
+file = "mods/damagenumbers.pw.toml"
+hash = "010d21e9d7d364313ce751e073ab48006ae80b302f68a7c434396dadbe324535"
 metafile = true
 
 [[files]]
@@ -1000,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "93d9e9fc1f240892eed9ab8ddea01261fda6273cbb5370a4486fa59f5144cd24"
+metafile = true
+
+[[files]]
+file = "mods/mobexplosiongriefinggamerule.pw.toml"
+hash = "69fe1f75fdc6724420abdef3a2fbb85e62d0cb96776015ad84851dede65099ab"
 metafile = true
 
 [[files]]
