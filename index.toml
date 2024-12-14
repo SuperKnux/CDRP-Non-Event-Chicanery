@@ -55,6 +55,11 @@ hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "11c6f0c0482ac8e793f2c8c963b714ee864a995e8e527721312d45fc3bcb3d4a"
 metafile = true
@@ -451,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
 metafile = true
 
 [[files]]
@@ -883,6 +893,11 @@ hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "ad1c4be47ec1445bd4061ca8f5e9dbe291bfd4b8dc4207ecfb65e8bd83bdd29f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
@@ -988,8 +1003,18 @@ hash = "93d9e9fc1f240892eed9ab8ddea01261fda6273cbb5370a4486fa59f5144cd24"
 metafile = true
 
 [[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "8b3772892d5e87a10c9535e22e40bbfae00dda4fc1faf6250e0eef9f577da840"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
 metafile = true
 
 [[files]]
@@ -1314,6 +1339,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
