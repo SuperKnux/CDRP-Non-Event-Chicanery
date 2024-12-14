@@ -1,0 +1,15 @@
+name = "apoli"
+filename = "Apoli-1.20.1-2.9.0+bc.23.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MerchantPug/apoli/releases/download/2.9.0%2Bbc.23.3/Apoli-1.20.1-2.9.0%2Bbc.23.3.jar"
+hash-format = "sha256"
+hash = "6a2ea2e7881b556aa4918eaf7e7a8ec456b9422b388cfce87888b9bd319f1c46"
+
+[update]
+[update.github]
+branch = "bc23"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "MerchantPug/apoli"
+tag = "2.9.0+bc.23.3"

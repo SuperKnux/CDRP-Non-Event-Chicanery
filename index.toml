@@ -90,6 +90,11 @@ hash = "d45f2789a0587ee70ecfea9682a0d7bac3077e8111353258f5aa9b71131288ee"
 metafile = true
 
 [[files]]
+file = "mods/apoli.pw.toml"
+hash = "72c7f5540dd968f4bb2b656b813c5d838987ffddaec642e5030fc9100e4d31e7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
