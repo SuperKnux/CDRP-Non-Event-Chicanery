@@ -723,11 +723,6 @@ hash = "7c91287eba8c17d94f8f0b959d28773cc3b8b8ae68d88501b2275331ffb7be5c"
 metafile = true
 
 [[files]]
-file = "mods/hexdim.pw.toml"
-hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
-metafile = true
-
-[[files]]
 file = "mods/hexgender.pw.toml"
 hash = "e5448445861280421d0f2d9d6185e254abc05a51f1197ba9657e53034f0f98d1"
 metafile = true
