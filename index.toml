@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "11711429a52750d39f1fa77660baf52376d1627a02724d2dccdc7281b4170d61"
+hash = "ea8f6ed20e3cdffc2eb064b9fd37501078cb5273fd43e6430dd827058bd2beac"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "23acea5043b043f4307ee1ce9d3738340ee72e5d3915322d7cee40403265f41b"
+hash = "08934eee57062f77648ace8c6fe393a6072e13a013ce519f7009d6f1e4733c24"
 metafile = true
 
 [[files]]
@@ -245,6 +245,11 @@ hash = "69a54ca57e0100c7c8175610f346aba7035e06f564ca075f5428faa45b289de4"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "d250a791b3ec9538036276fde244293c9c6d1854d6073d13f731f0fe36c73ff7"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "0b98721023b797c05cc48bee4bccdd5851e55551275baec2a7c1ff2a548e12d1"
 metafile = true
 
 [[files]]
@@ -464,6 +474,11 @@ hash = "ee5fd2f8b4b3eed5b4a9bf45610541aa8235eac44f38a47fca5a530280028d03"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "a5f3933185d717d0075e6084169e36ee47000d9d89035bd6816912df4c8f30b7"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
@@ -476,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
 
 [[files]]
@@ -580,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4eebbd915505891152179070e92c440f7ae3d3bf0ff6497936da38f77a621910"
+hash = "eb1a4273056f72643891578bdea71b3fcffc5d492376d1a31ff1f177233b2df6"
 metafile = true
 
 [[files]]
@@ -750,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "8317a5b3efefd79c435b77d786f2cfdfcadb91f3d423dd99a897d3f3e5ead799"
 metafile = true
 
 [[files]]
@@ -1089,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f4eb6b3902bd9c2f70034caf398c443bea82a7792c08b5d53101d77ee596fb0"
+hash = "d2d8cf93100f6d256a03a7c0527394e269320582b2b19b6f8d10592ed3fe5384"
 metafile = true
 
 [[files]]
@@ -1342,13 +1367,18 @@ hash = "3f4ebc99e5cfdfebdcaab0eb420af0cfe8952e93566ede25cbea6463119ba0f9"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "3159f65be74fdf8c382f2079d9db965972c8612e661f126be522ae37a73c34f8"
+metafile = true
+
+[[files]]
 file = "mods/simple-trashcan.pw.toml"
 hash = "755cc6bd2f4a74489f1d3b2c1969df71073c16dcbe08389332532d4d59e24890"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f42254890af913280ba9713f31986c02660b5f79e3f0869952832e08c5d516c0"
+hash = "d7062507251f577355a3c3e4fd3bc33ea9ac0e74ad0da2c8f0eb6c9b9c182b99"
 metafile = true
 
 [[files]]
@@ -1553,7 +1583,7 @@ metafile = true
 
 [[files]]
 file = "mods/truly-modular-arsenal.pw.toml"
-hash = "0fd450b8634fcd5f23e71088c902b062feda4f8520fc534e8d4b2c422343b7ee"
+hash = "58586108f9e4a6b378637eb2cdb5a297f59ba6879aba4e0954183e058b881356"
 metafile = true
 
 [[files]]
@@ -1572,8 +1602,18 @@ hash = "672716713e45546f6c192f4e3d424bb08da872bf4353d3b3a563a0587ae9ee16"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "f6058827d13219b89e1f2a15ce02ebf5bc86482e4b6971520627c32232545577"
+metafile = true
+
+[[files]]
 file = "mods/vectorientation.pw.toml"
 hash = "5bba63e855efd5e7249461bf210c21b4da30590c62a93f1d40704e978500f2b1"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "213860e0c0161f60fba897f526d92ca703208dd26b636e6eaadb2c715d8a2f58"
 metafile = true
 
 [[files]]
