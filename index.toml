@@ -1157,6 +1157,11 @@ hash = "9d72a2126537efbf86ea08ad99994739765b8402e18cad97835931b478b2c584"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "2b64b2a63c295cc3e7c91888d156b3f267e05cfddb86486eb171200c1bc2c1c5"
 metafile = true
@@ -1444,11 +1449,6 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
