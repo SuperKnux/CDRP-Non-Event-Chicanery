@@ -1737,8 +1737,8 @@ hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Mahoraga-Anime_v4.2.zip"
-hash = "dc178e450182e1372c91af076b99b4f8a04a216c5c1283102bf848ce8928a3ba"
+file = "resourcepacks/Mahoraga_Resource_Pack_FIXED.zip"
+hash = "02ff7a8968eb2d28f81fd00100289bd3add94c08daec9189817acdd380a32bd9"
 
 [[files]]
 file = "resourcepacks/UndertaleOriginsResourcePack.zip"
