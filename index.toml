@@ -305,6 +305,11 @@ hash = "0b98721023b797c05cc48bee4bccdd5851e55551275baec2a7c1ff2a548e12d1"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "67e029f733248975f8a6e24a59c576c944ce1b412386ceed43fc65da6892785e"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
@@ -1362,11 +1367,6 @@ hash = "237f2f7e07c11a23ff2dd78f4784cd2068246b9c596e081b84dc26ca20726012"
 metafile = true
 
 [[files]]
-file = "mods/scannable.pw.toml"
-hash = "e251ab5874872b26bf3426707a05317e7e6e36124c509db49fa5414e0b2a135f"
-metafile = true
-
-[[files]]
 file = "mods/scarves.pw.toml"
 hash = "a393c8a89aa87b7a46d570553757e9a527c6dd839784bb88b0eae02fe5e78431"
 metafile = true
@@ -1569,6 +1569,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "82e410c00084d33b3041a5460f829dc1cce617fb2360aa671621ae40b8c6f797"
+metafile = true
+
+[[files]]
+file = "mods/travelers-compass.pw.toml"
+hash = "f0ea65343547612cfe3dee61dad99bc10d57c173973898675d8ae7c96a70083e"
 metafile = true
 
 [[files]]
