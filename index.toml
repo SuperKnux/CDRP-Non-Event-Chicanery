@@ -225,6 +225,11 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "d1c4e2fe20e9dc2501de48ac36c0ca614291c96e344ecad3aee16886127535f8"
 metafile = true
@@ -1378,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "3f4ebc99e5cfdfebdcaab0eb420af0cfe8952e93566ede25cbea6463119ba0f9"
+hash = "7c6e7bc4bced624a331c136555d5c5df601345c5307fc704acad26eecd759a98"
 metafile = true
 
 [[files]]
@@ -1730,6 +1735,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Mahoraga-Anime_v4.2.zip"
+hash = "dc178e450182e1372c91af076b99b4f8a04a216c5c1283102bf848ce8928a3ba"
 
 [[files]]
 file = "resourcepacks/UndertaleOriginsResourcePack.zip"
