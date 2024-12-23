@@ -823,11 +823,6 @@ hash = "d8f72b34da37cb52bf804b9fc14d36586d435aaf225a1d906291a007c37fb3c8"
 metafile = true
 
 [[files]]
-file = "mods/ipla.pw.toml"
-hash = "d0e434a67ec7d08cedd7c636efb5d9f8c0ab26232878129bceb40ab255998bfb"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
