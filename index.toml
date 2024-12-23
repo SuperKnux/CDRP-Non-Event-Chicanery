@@ -509,6 +509,11 @@ hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "929117b53b88229ad2d1110fbcd4fa2906a70c09ab7409ec7bb7e1e9d475cb48"
+metafile = true
+
+[[files]]
 file = "mods/drop-confirm.pw.toml"
 hash = "70747327ef5cd1bdf131343bf4fcec2bcb63c9ddff4fb241e460829b4bd98d75"
 metafile = true
@@ -666,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "018d252020006fc01bce99e0395e9cc5c7667e1263ddec315ef8696e87c02f8f"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
 metafile = true
 
 [[files]]
@@ -1514,6 +1524,26 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "4e8767147d197f0cdfe9e3f35b2ffa792a6cb45ba0de7146b91320bc44e59416"
+metafile = true
+
+[[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "2feef6f3f02342af84b8af9a7db7f0250f5b75b65aa6e2285dddfa02ad6337f8"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "0717c21d2a94d2ab31ad00d3331a0c727a23ab8f3634aa230e64ec21d605da16"
+metafile = true
+
+[[files]]
+file = "mods/switchy-teleport.pw.toml"
+hash = "5750f5daa98c0b0543a297502078e17e32225cd322072c66333e88a6f37266d5"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "48189158ff32922badb4a66b7ea55d688d7b97d52863ff33ffd158ea3a7a8604"
 metafile = true
 
 [[files]]
