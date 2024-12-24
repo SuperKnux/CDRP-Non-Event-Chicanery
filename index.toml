@@ -758,6 +758,11 @@ file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
 hash = "f30bc10c2e046a1cf364ffab1222a0ee865265b5e2de08de17ea9dbdceea975e"
 
 [[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "65019cc13c0e36640360dee464e748966b210173f72f4c30f7ddcd2fc25003f5"
+metafile = true
+
+[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "7c91287eba8c17d94f8f0b959d28773cc3b8b8ae68d88501b2275331ffb7be5c"
 metafile = true
