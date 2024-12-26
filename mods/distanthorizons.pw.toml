@@ -11,3 +11,7 @@ hash = "a5059a249283f686bc49bc4c2606fce7b665102983f396996f47c11245fee21059554db5
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "20nF6i21"
+
+[option]
+optional = true
+description = "Use either this or Bobby, not both."
