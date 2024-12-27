@@ -1,13 +1,13 @@
 name = "TARDIS Refined"
-filename = "fabric-tardis_refined-mc1.20.1-v2.1.0.jar"
+filename = "fabric-tardis_refined-mc1.20.1-v2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nqVt6aES/versions/6uWjBQGy/fabric-tardis_refined-mc1.20.1-v2.1.0.jar"
+url = "https://cdn.modrinth.com/data/nqVt6aES/versions/j4lfbueA/fabric-tardis_refined-mc1.20.1-v2.1.1.jar"
 hash-format = "sha512"
-hash = "26a6d622e0506a97b7d6cdeb477e6a69b8990ab5069cc87ef07b2a97121af8cb7a968721cf470d6c31f2527593a9f776f26dbeb7d9c1d91de9a8ff8a5c5f0694"
+hash = "2df3abab5f20f7a02b5704ab07308b125fd041d802fb785d10cc11b0f11c204c2471c07a13b3a0f9df68fa0c190e040e1153eee3305be0c2816889e6ac964354"
 
 [update]
 [update.modrinth]
 mod-id = "nqVt6aES"
-version = "6uWjBQGy"
+version = "j4lfbueA"
