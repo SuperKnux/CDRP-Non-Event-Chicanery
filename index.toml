@@ -1777,6 +1777,10 @@ hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
 
 [[files]]
+file = "resourcepacks/GentenKaisenRP.zip"
+hash = "472f749cc78e335bd999f3cf2b5a52b066f920fb53d6bed8a34c380c821c6f1d"
+
+[[files]]
 file = "resourcepacks/Mahoraga_Resource_Pack_FIXED.zip"
 hash = "02ff7a8968eb2d28f81fd00100289bd3add94c08daec9189817acdd380a32bd9"
 
