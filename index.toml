@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f9278d338d0fc16a343206fdce858d5d57adb84a2ee12eb815053695f37a1886"
+hash = "42cfaca74786adca775e2a86be27c6900e56eb86a5d8428b6b6998ed1b33f1af"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/cave-dust.pw.toml"
-hash = "0d80d10f84fd8907e1ad1659f029921b24745d4ed27b3a8d64b68679725f6b1c"
+hash = "67ab8d43b45dbf8e2737717a38043f4e8da41ebb4891a278c639f27e07eab409"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "a56a4b40dc3615260d95334fd55167fa9a44c01c8aa377ad91ab4a7a1c74f3e6"
+hash = "228e9a15f5ee1062987b6e434356eccc073eec7bce600a3d9043ce6b9fbf61ed"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "16de61b32acb724fc130debd459ffec5366d7a4fa428852aab26bf0d99ba2d97"
+hash = "1c88cfee239a15fd5e5398df0326e16616dd9a5ccef0ab8eeee4271fcb00fb77"
 metafile = true
 
 [[files]]
@@ -721,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "a72cc43ba88e8192e1c1ca42df76c4cc4739fe482985ed1e3259a28647c22fe7"
 metafile = true
 
 [[files]]
@@ -779,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexparse.pw.toml"
-hash = "8ca0baefb2deb3ac50524e914e61c745172903a8ace4486f60e2042ce0050b18"
+hash = "c66548c8cd2dc3c856a36c1dee4133ab577c36df8771e49981631b95a9aeabb1"
 metafile = true
 
 [[files]]
@@ -919,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
-hash = "a816f80d3ddb9233c17da83c0473ea23a0eef495f5f62fd076c07fd7aed71993"
+hash = "7c09eade43030f265996b88e20c8f80754deea122e9bcaf5095b8d00135c182a"
 metafile = true
 
 [[files]]
@@ -1144,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1beaceb2b40228c48cbda401cbc059d0021e99b27f81a8813519b9bd43f4904d"
+hash = "98c5a3ed8bd41a7ab32f6c52006f443849f3ccfa8683b8c013fd57a1ee67f692"
 metafile = true
 
 [[files]]
@@ -1179,6 +1184,11 @@ metafile = true
 [[files]]
 file = "mods/mythic-charms.pw.toml"
 hash = "998ae92740516f1cea6928b19f2a10daa228d268467ca79d2cb40b50d02dfe01"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "e2857e7300160eeef88f8dffca85f32aac786813ca5410ec6dc587c35b2665e9"
 metafile = true
 
 [[files]]
@@ -1528,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "141cdd7d3bdbfb67bb1571c89a41018150caee637c03c464e4f2608a88a9af4a"
+hash = "b8861226fbb638ea07284255002b3ed5f21ad032dd11fe439925d43cc0ec1945"
 metafile = true
 
 [[files]]
@@ -1633,7 +1643,7 @@ metafile = true
 
 [[files]]
 file = "mods/truly-modular-armory.pw.toml"
-hash = "2499eae9ab18a461c1be287d0c3d98be54b86ea087d30cd2e0229138b0385d26"
+hash = "d675d2f8b86abeb6fe16703246aa962afa6f9dd522cd84936e25b2ae69f019ac"
 metafile = true
 
 [[files]]
@@ -1648,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "fc2702c3dedec6250bacbca4c9b4dfe75139e734dd4a2612b63396e71770a969"
+hash = "871bfb6080e8d6b6135b0e6027e752cd668bff00cfeaf0b81f0b7b14be4c48c7"
 metafile = true
 
 [[files]]
