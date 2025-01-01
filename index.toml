@@ -385,6 +385,11 @@ hash = "ec8ee763dfbc0e1731c4c42b2803091e4ae7dae8b87f7a684cb1662584a4411d"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
