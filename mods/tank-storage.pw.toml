@@ -1,0 +1,13 @@
+name = "Tank Storage"
+filename = "tankstorage-0.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4tkhj6x9/versions/zZyTdM4c/tankstorage-0.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "410039d5c66a9cb0b17402bf1d37ad76b8c98b183cc580a2a4685c1ead0c22e15902d40c804b1f11af9d902df05bd72359fcc24e1b3fb2a96f7e33064b19a2c6"
+
+[update]
+[update.modrinth]
+mod-id = "4tkhj6x9"
+version = "zZyTdM4c"

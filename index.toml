@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-goggles.pw.toml"
-hash = "f10611e22b81f4eae5e9e012fecffe21c694cde7417b43a93ae3381508020f44"
+hash = "00cf573cba0077f7fe787eecf22a879894f80e0795fa1cabbfaa87bfaa5c584e"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
+hash = "ca6e52b8a96c4ce864f14c29a7a3b63f7a53b9b4d5e81ed45cff26ebd9bca5e9"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "157d7826377eefc4746e7f8037e2169a90571c3c34d4d2ce1505c7767c6fbbb9"
+hash = "7c156b3e1bfc2d521c18aeb7237b9605a78fcdd6bfbedb29498ffa885accdd03"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexparse.pw.toml"
-hash = "c66548c8cd2dc3c856a36c1dee4133ab577c36df8771e49981631b95a9aeabb1"
+hash = "137607fe8be717c18c25a162fa94fd18c928a510b147673ca266dfe99f0b58ce"
 metafile = true
 
 [[files]]
@@ -845,6 +845,11 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "06ff4315690ac68d88776ed29740ad1515746a382f4ac47ecde0566cb16333b8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "373ec22dd58dde230d1790429ab57eabe5cde34bdf4ee8121ffc1d5e9cd1a2f2"
 metafile = true
 
 [[files]]
@@ -1139,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "37e351edff4e7e105e9ce910c22998413a400969b9f28894fc69cd960381f3a3"
+hash = "627bebea92bf4fda94b4b041d9aa35e40ce09325307ed8f36d058f94b525509a"
 metafile = true
 
 [[files]]
@@ -1174,11 +1179,6 @@ hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
 metafile = true
 
 [[files]]
@@ -1318,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "5a57a2f55dd01cbfd7a22419d3ce39db05cc15b0af2e23c6d292d4d5dbe5448a"
+hash = "e9aa29326f72556e4e3707a78567dc59a22aa06a0378531b381100004e14d8c8"
 metafile = true
 
 [[files]]
@@ -1528,7 +1528,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "3535f09ca9885063d4830c1cb32d24e6a98c1d16bd24b9071d4f5f42a3d7ad4d"
+hash = "9bfa8111de5b03a1eaa3b875b56a0a89fe4501e0bdf88b47eb134e68f9de99ce"
 metafile = true
 
 [[files]]
@@ -1572,8 +1572,13 @@ hash = "48189158ff32922badb4a66b7ea55d688d7b97d52863ff33ffd158ea3a7a8604"
 metafile = true
 
 [[files]]
+file = "mods/tank-storage.pw.toml"
+hash = "df39d05d309774ad0c8d4cf5f6ced110fbbc11d2222d98710c81b992df5fb0bd"
+metafile = true
+
+[[files]]
 file = "mods/tardis-refined.pw.toml"
-hash = "48d6dc62b2d45463db0ae2f540a900c70315f81d01d27402924ae6b8737642b4"
+hash = "1d698d7d401057a74a15db9b4b71b4c4995c5432f37cf356b2f9d7a2676daab2"
 metafile = true
 
 [[files]]
@@ -1648,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "mods/truly-modular-armory.pw.toml"
-hash = "d675d2f8b86abeb6fe16703246aa962afa6f9dd522cd84936e25b2ae69f019ac"
+hash = "fb57a2ceccf03eff1b6d07db44c7c41b7a9f0f2ea97ff51f4b9dd0de883b9ff7"
 metafile = true
 
 [[files]]
