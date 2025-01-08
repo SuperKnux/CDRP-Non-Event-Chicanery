@@ -205,11 +205,6 @@ hash = "a11b70319c12adadc8444b3883abff9e1bb38278e9c61b79e2988594efeed89c"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
@@ -271,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "9489e84fa1b95dfaed50d12d01094b6c424124d8153a36303c06b6581d72899f"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
@@ -590,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "bbaea729b709272743221c0f7553a5628e344aab499690adef306c861971bacb"
+hash = "f9109bb1aae21525af8da7ed9d062b5a9c3f32a520a4fb5816847e051b64dd34"
 metafile = true
 
 [[files]]
@@ -665,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
+hash = "376321a4e11e86d932670192b6ddebfd7b898c4e47e74a6b08c7c0123a0aa49c"
 metafile = true
 
 [[files]]
@@ -740,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
+hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
 metafile = true
 
 [[files]]
@@ -1149,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-item-api.pw.toml"
-hash = "15af0e41a71293f4af8e1b448ccbf408d3ccf6c2b542165c75c6e15664b68785"
+hash = "d206d6944234cbb3b1b59f337bcceae4a3b2fdbcdf336e0be62eb84c1f877225"
 metafile = true
 
 [[files]]
@@ -1159,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "98c5a3ed8bd41a7ab32f6c52006f443849f3ccfa8683b8c013fd57a1ee67f692"
+hash = "cb9d907b5139656687de624d1cf5ebf0f5f9549acefc2695280fd09a60a5779b"
 metafile = true
 
 [[files]]
@@ -1643,7 +1638,7 @@ metafile = true
 
 [[files]]
 file = "mods/truly-modular-archery.pw.toml"
-hash = "1cb3c639a20a6aa5ec12744960cd10b6eb77f013ce9d428fd1a549905b51780c"
+hash = "f2d9c7c9533eda758590fec0611943a98d42abbbcf0adfd470a0013b61bb8716"
 metafile = true
 
 [[files]]
@@ -1738,7 +1733,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "03fe4934f0517438ee280ac5674f113dc5b0b40d667f98a68084a3f91f6e0af4"
+hash = "b458dd0f1aa985254b7b9e7d91ea08857724b564dc19f7baf2400eccc7d9030a"
 metafile = true
 
 [[files]]
