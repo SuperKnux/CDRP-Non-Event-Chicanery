@@ -205,6 +205,11 @@ hash = "a11b70319c12adadc8444b3883abff9e1bb38278e9c61b79e2988594efeed89c"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
