@@ -1139,7 +1139,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "627bebea92bf4fda94b4b041d9aa35e40ce09325307ed8f36d058f94b525509a"
+hash = "9646d08b1a0997fb6f0542b2692c16f9994a1aa2af5121a4b8d3778531cb0a08"
 metafile = true
 
 [[files]]
@@ -1697,6 +1697,11 @@ hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "68fd939911d8be91a3d276485e52872a22dec1d3a57d83f903527bce38bba946"
 metafile = true
@@ -1729,6 +1734,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "88121fbabab3563f8dbb84a32347c753d23eec466c1df3225570cdb42e251029"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "40af5de7db5a767b935c406184bc298d6e9483cf255c5152dc2f795dd509ce06"
 metafile = true
 
 [[files]]
